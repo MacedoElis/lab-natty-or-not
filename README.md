@@ -10,7 +10,7 @@
 ### Template
 
 ```markdown
-#TEventos climáticos extremos como secas, inundações e furacões se tornam mais frequentes e intensos. ;)
+#Eventos climáticos extremos como secas, inundações e furacões se tornam mais frequentes e intensos.
 
 ## 📒 Descrição
 Trata-se de um vídeo sobre a aquecimento global e eventos climáticos extremos.
