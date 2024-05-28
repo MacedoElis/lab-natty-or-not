@@ -22,12 +22,17 @@ Liste as IAs Generativas e outras ferramentas usadas
 -D-ID para fazer o Avatar ( usei avatar free)
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Usei o gemini para geração do texto sobre aquecimento global e criaçao de um headine poderoso.
+Após refinar o texto, usei o ElevenLabs para fazer o TEXT TO SPEEC e usei o D-ID para fazer um avatar.
+Não ficou muito natural, usei a versão free.
+e meu veredito no video da conclusão do desfio o Venilton é Fake Natty.
+
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto.
 O Video está disponivel no link abaixo  e aqui no Github
 https://studio.d-id.com/share?id=12f06111090853f3a9ad23c47a04111f&utm_source=copy
+https://github.com/MacedoElis/lab-natty-or-not/tree/main
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
